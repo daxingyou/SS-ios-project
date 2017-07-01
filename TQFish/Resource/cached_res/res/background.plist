@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>MJ_Thehall_Background.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,2},{960,540}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{960,540}}</string>
+			<key>sourceSize</key>
+			<string>{960,540}</string>
+		</dict>
+		<key>MJ_UI_LOGO_sichuan_daoying.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,544},{889,808}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{889,808}}</string>
+			<key>sourceSize</key>
+			<string>{889,808}</string>
+		</dict>
+		<key>MJ_denglu_btn_logo.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{2,1354},{878,518}}</string>
+			<key>offset</key>
+			<string>{0,0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0,0},{878,518}}</string>
+			<key>sourceSize</key>
+			<string>{878,518}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>realTextureFileName</key>
+		<string>background.pvr.ccz</string>
+		<key>size</key>
+		<string>{964,1874}</string>
+		<key>smartupdate</key>
+		<string>$TexturePacker:SmartUpdate:dcf80e784fc68a89f2feee5b825a15d8$</string>
+		<key>textureFileName</key>
+		<string>background.pvr.ccz</string>
+	</dict>
+</dict>
+</plist>

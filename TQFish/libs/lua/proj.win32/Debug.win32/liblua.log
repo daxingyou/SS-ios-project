@@ -1,0 +1,91 @@
+﻿生成启动时间为 2015/8/11 18:04:33。
+     1>项目“E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\liblua.vcxproj”在节点 3 上(Build 个目标)。
+     1>PreBuildEvent:
+         if not exist "E:\javawork\TqAndroidGit\TqCocos2d-x\project\proj.win32\Debug.win32\" mkdir "E:\javawork\TqAndroidGit\TqCocos2d-x\project\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\luajit\win32\*.*" "E:\javawork\TqAndroidGit\TqCocos2d-x\project\proj.win32\Debug.win32\"
+         :VCEnd
+         复制了 2 个文件
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\..\..\cocos2dx" /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\..\..\cocos2dx\include" /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\..\..\cocos2dx\kazmath\include" /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\..\..\cocos2dx\platform\win32" /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\..\..\cocos2dx\platform\third_party\win32\OGLES" /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\..\..\cocos2dx\platform\third_party\win32\pthread" /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\..\..\CocosDenshion\include" /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\..\..\extensions" /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\..\..\extensions\network" /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\..\..\external\libwebsockets\win32\include" /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\tolua" /I"E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\..\luajit\include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /D COCOS2D_DEBUG /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc110.pdb" /Gd /TC /wd4996 /wd4800 /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\lua\lapi.c ..\lua\lauxlib.c ..\lua\lbaselib.c ..\lua\lcode.c ..\lua\ldblib.c ..\lua\ldebug.c ..\lua\ldo.c ..\lua\ldump.c ..\lua\lfunc.c ..\lua\lgc.c ..\lua\linit.c ..\lua\liolib.c ..\lua\llex.c ..\lua\lmathlib.c ..\lua\lmem.c ..\lua\loadlib.c ..\lua\lobject.c ..\lua\lopcodes.c ..\lua\loslib.c ..\lua\lparser.c ..\lua\lstate.c ..\lua\lstring.c ..\lua\lstrlib.c ..\lua\ltable.c ..\lua\ltablib.c ..\lua\ltm.c ..\lua\lua.c ..\lua\lundump.c ..\lua\lvm.c ..\lua\lzio.c ..\lua\print.c ..\tolua\tolua_event.c ..\tolua\tolua_is.c ..\tolua\tolua_map.c ..\tolua\tolua_push.c ..\tolua\tolua_to.c
+         tolua_to.c
+         tolua_push.c
+         tolua_map.c
+         tolua_is.c
+         tolua_event.c
+         print.c
+         lzio.c
+         lvm.c
+         lundump.c
+         lua.c
+         ltm.c
+         ltablib.c
+         ltable.c
+         lstrlib.c
+         lstring.c
+         lstate.c
+         lparser.c
+         loslib.c
+         lopcodes.c
+         lobject.c
+         正在生成代码...
+         正在编译...
+         loadlib.c
+         lmem.c
+         lmathlib.c
+         llex.c
+         liolib.c
+         linit.c
+         lgc.c
+         lfunc.c
+         ldump.c
+         ldo.c
+         ldebug.c
+         ldblib.c
+         lcode.c
+         lbaselib.c
+         lauxlib.c
+         lapi.c
+         正在生成代码...
+       Lib:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"E:\javawork\TqAndroidGit\TqCocos2d-x\project\proj.win32\Debug.win32\liblua.lib" /NOLOGO Debug.win32\lapi.obj
+         Debug.win32\lauxlib.obj
+         Debug.win32\lbaselib.obj
+         Debug.win32\lcode.obj
+         Debug.win32\ldblib.obj
+         Debug.win32\ldebug.obj
+         Debug.win32\ldo.obj
+         Debug.win32\ldump.obj
+         Debug.win32\lfunc.obj
+         Debug.win32\lgc.obj
+         Debug.win32\linit.obj
+         Debug.win32\liolib.obj
+         Debug.win32\llex.obj
+         Debug.win32\lmathlib.obj
+         Debug.win32\lmem.obj
+         Debug.win32\loadlib.obj
+         Debug.win32\lobject.obj
+         Debug.win32\lopcodes.obj
+         Debug.win32\loslib.obj
+         Debug.win32\lparser.obj
+         Debug.win32\lstate.obj
+         Debug.win32\lstring.obj
+         Debug.win32\lstrlib.obj
+         Debug.win32\ltable.obj
+         Debug.win32\ltablib.obj
+         Debug.win32\ltm.obj
+         Debug.win32\lua.obj
+         Debug.win32\lundump.obj
+         Debug.win32\lvm.obj
+         Debug.win32\lzio.obj
+         Debug.win32\print.obj
+         Debug.win32\tolua_event.obj
+         Debug.win32\tolua_is.obj
+         Debug.win32\tolua_map.obj
+         Debug.win32\tolua_push.obj
+         Debug.win32\tolua_to.obj
+         liblua.vcxproj -> E:\javawork\TqAndroidGit\TqCocos2d-x\project\proj.win32\Debug.win32\liblua.lib
+     1>已完成生成项目“E:\javawork\TqAndroidGit\TqCocos2d-x\libs\lua\proj.win32\liblua.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.21

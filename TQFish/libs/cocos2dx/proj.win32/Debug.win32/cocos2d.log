@@ -1,0 +1,15 @@
+﻿生成启动时间为 2015/11/4 13:59:31。
+     1>项目“E:\javawork\TqAndroidGit\TqCocos2d-x\libs\cocos2dx\proj.win32\cocos2d.vcxproj”在节点 2 上(Build 个目标)。
+     1>PreLinkEvent:
+         if not exist "E:\javawork\TqAndroidGit\TqCocos2d-x\project\proj.win32\Debug.win32\" mkdir "E:\javawork\TqAndroidGit\TqCocos2d-x\project\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\javawork\TqAndroidGit\TqCocos2d-x\libs\cocos2dx\proj.win32\..\platform\third_party\win32\libraries\*.*" "E:\javawork\TqAndroidGit\TqCocos2d-x\project\proj.win32\Debug.win32\"
+         
+         :VCEnd
+         复制了 15 个文件
+       Link:
+         cocos2d.vcxproj -> E:\javawork\TqAndroidGit\TqCocos2d-x\project\proj.win32\Debug.win32\libcocos2d.dll
+     1>已完成生成项目“E:\javawork\TqAndroidGit\TqCocos2d-x\libs\cocos2dx\proj.win32\cocos2d.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.38

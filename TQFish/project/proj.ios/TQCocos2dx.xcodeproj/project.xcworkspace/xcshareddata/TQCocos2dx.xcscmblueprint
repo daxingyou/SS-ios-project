@@ -1,0 +1,79 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "71DDA2E5C8D6BB5D5631A8A798AB9152BC0E361D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D1545A258638A80069532B826898BE40224F31E5" : 9223372036854775807,
+    "3E9118CE7CCE3AD1AE4792F204B210352708BDDC" : 9223372036854775807,
+    "06EC5ED7DB0D8523232395DF655F306DEFDCF239" : 9223372036854775807,
+    "71DDA2E5C8D6BB5D5631A8A798AB9152BC0E361D" : 9223372036854775807,
+    "769F34CF30519A92F15DBFBA0934D17FEC90B975" : 9223372036854775807,
+    "ACFD0EB048135A7EE16FDFE5E00BFD48D033B1CF" : 9223372036854775807,
+    "FBAB052D860E5343DC3F10839DAB6A66CF420C7A" : 9223372036854775807,
+    "A1AAF9695743C9EA2D0EBCE989482127B4A26BC7" : 9223372036854775807,
+    "D155EF31A1DCEB60C73AAE206967FC9B87852478" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "F64F7E42-6B80-4C9F-BF8E-AA25F1A045DE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D1545A258638A80069532B826898BE40224F31E5" : "TQFish\/ThirtPartSDK\/",
+    "3E9118CE7CCE3AD1AE4792F204B210352708BDDC" : "TQFish\/Resource\/cached_res\/script\/gameCommon\/",
+    "06EC5ED7DB0D8523232395DF655F306DEFDCF239" : "TQFish\/Resource\/cached_res\/script\/loadModule\/mahjong\/",
+    "71DDA2E5C8D6BB5D5631A8A798AB9152BC0E361D" : "",
+    "769F34CF30519A92F15DBFBA0934D17FEC90B975" : "TQFish\/Resource\/cached_res\/script\/framework\/",
+    "ACFD0EB048135A7EE16FDFE5E00BFD48D033B1CF" : "TQFish\/Resource\/pkg_res\/",
+    "FBAB052D860E5343DC3F10839DAB6A66CF420C7A" : "TQFish\/Classes\/",
+    "A1AAF9695743C9EA2D0EBCE989482127B4A26BC7" : "TQFish\/libs\/",
+    "D155EF31A1DCEB60C73AAE206967FC9B87852478" : "TQFish\/Resource\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TQCocos2dx",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "project\/proj.ios\/TQCocos2dx.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/testdb.tongqutongqu.cn:29418\/Module_mahjong.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "06EC5ED7DB0D8523232395DF655F306DEFDCF239"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/testdb.tongqutongqu.cn:29418\/Module_gameCommon.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3E9118CE7CCE3AD1AE4792F204B210352708BDDC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/testdb.tongqutongqu.cn:29418\/TqCocos2d-x.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71DDA2E5C8D6BB5D5631A8A798AB9152BC0E361D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/testdb.tongqutongqu.cn:29418\/Module_framework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "769F34CF30519A92F15DBFBA0934D17FEC90B975"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/testdb.tongqutongqu.cn:29418\/Native_Cocos_Libs.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A1AAF9695743C9EA2D0EBCE989482127B4A26BC7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/testdb.tongqutongqu.cn:29418\/Module_pkg_res.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ACFD0EB048135A7EE16FDFE5E00BFD48D033B1CF"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/testdb.tongqutongqu.cn:29418\/Native_IOS_ThirtPartSDK.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D1545A258638A80069532B826898BE40224F31E5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/testdb.tongqutongqu.cn:29418\/TQMahjongForLua.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D155EF31A1DCEB60C73AAE206967FC9B87852478"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/testdb.tongqutongqu.cn:29418\/Native_C++_Classes.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FBAB052D860E5343DC3F10839DAB6A66CF420C7A"
+    }
+  ]
+}
